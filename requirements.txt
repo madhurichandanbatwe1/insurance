@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn==1.3.2
+seaborn
+matplotlib
+python-dotenv
+xgboost
+Flask
